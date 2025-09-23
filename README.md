@@ -1,6 +1,6 @@
 # RAG — Pride & Prejudice Demo
 
-A small retrieval-augmented workflow that:
+A small Retrieval Augmented Generation workflow that:
 
 - loads the Project Gutenberg text [PridePrejudice.txt](PridePrejudice.txt),
 - splits it into chunks,
